@@ -1,6 +1,6 @@
 package koeln.uni.idh.java2;
 /**
- * @author Geckington
+ * @author  Geckington
  */
 public class Main {
 
