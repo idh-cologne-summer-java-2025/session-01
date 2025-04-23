@@ -1,5 +1,7 @@
 package koeln.uni.idh.java2;
-
+/**
+ * @author Geckington
+ */
 public class Main {
 
 	public static void main(String[] args) {
